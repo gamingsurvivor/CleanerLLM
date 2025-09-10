@@ -1,0 +1,4 @@
+/.chainlit/translations
+/__pycache__
+gpt2-medium355M-sft.pth
+gpt2/355M/model.ckpt.data-00000-of-00001
